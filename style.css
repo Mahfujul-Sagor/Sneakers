@@ -206,7 +206,6 @@ body {
 .msg-icon {
   font-size: 2rem;
   color: #1b9450;
-  border: 1px solid #1b9450;
 }
 
 .msg-icon:hover {
