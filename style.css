@@ -89,7 +89,7 @@ body {
 }
 
 .mini:hover {
-  border: 2px solid #1b9450;
+  outline: 2px solid #1b9450;
 }
 
 .mini img {
@@ -219,7 +219,8 @@ body {
   padding: 0.5rem 1.5rem;
   border-radius: 2rem;
   background-color: #FEFEFE;
-  border: 1px solid #1b9450;
+  outline: 1px solid #1b9450;
+  border: none;
   cursor: pointer;
 }
 
